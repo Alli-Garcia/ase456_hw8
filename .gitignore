@@ -1,3 +1,11 @@
+.github
+ios
+linux
+macos
+public
+test
+web
+
 # Miscellaneous
 *.class
 *.log
