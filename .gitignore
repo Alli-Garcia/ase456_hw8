@@ -5,6 +5,7 @@ macos
 public
 test
 web
+android
 
 # Miscellaneous
 *.class
